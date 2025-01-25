@@ -15,6 +15,10 @@ const navbar_zhCN = [
         text: 'Postman',
         link: 'postman/',
       },
+      {
+        text: 'Fiddler',
+        link: 'fiddler/'
+      }
     ],
   },
 ];

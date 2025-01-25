@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "4934e4dd4b5606eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "294b5dca16be0863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1285fdfddb9235f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/docs/postman/encryption_decryption.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "encryption_decryption"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba03f56e22633384",
+    "type": "split",
+    "children": [
+      {
+        "id": "1592cdcaab928f3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e006ffbdf3a3fada",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40cd8688513a815d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d78fa9100ab5f72",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd75a863f41d6b8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fb7f1c659bba5c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e4480f764b4e69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/docs/postman/encryption_decryption.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for encryption_decryption"
+            }
+          },
+          {
+            "id": "3abd58f934751397",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/docs/postman/encryption_decryption.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from encryption_decryption"
+            }
+          },
+          {
+            "id": "377fb44605a6e3ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "50e39bd9b9ccde9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/docs/postman/encryption_decryption.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of encryption_decryption"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1285fdfddb9235f8",
+  "lastOpenFiles": [
+    "docs/docs/postman/mock_server.md",
+    "docs/docs/README.md",
+    "docs/docs/getting-started.md",
+    "docs/docs/postman/service_closed_loop.md",
+    "docs/docs/postman/response_interface.md",
+    "docs/docs/postman/request_interface.md",
+    "docs/docs/postman/introduction.md",
+    "docs/docs/postman/interview_question.md",
+    "docs/docs/postman/files_upload.md",
+    "docs/docs/postman/encryption_decryption.md",
+    "docs/docs/postman/data_driven.md",
+    "docs/docs/postman/cookie.md",
+    "docs/docs/postman/batch_run.md",
+    "docs/docs/postman/assert.md"
+  ]
+}
